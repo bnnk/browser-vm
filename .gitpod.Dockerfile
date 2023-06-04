@@ -1,4 +1,4 @@
-FROM rastasheep/ubuntu-sshd:18.04
+FROM gitpod/workspace-full-vnc
 
 # Buildroot version to use
 ARG BUILD_ROOT_RELEASE=2021.02-rc2
